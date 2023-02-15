@@ -53,6 +53,16 @@ This is an example of a text with an asterisk* WHen we don't want it to be itali
 
 > "You don't have to be great to start, but you need to start to be great.* -__Unknown Author__
 
+---
+
+<!--Link Rule-->
+
+**NOTE**: we would want to put the link description inside of square brackets and link to the resource inside of two open and close parenthesis
+[JaoOrtiz Fb page](https://www.facebook.com/Kindhearted.14/)
+
+
+
+
 
 
 
