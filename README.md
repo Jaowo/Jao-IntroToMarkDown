@@ -130,6 +130,18 @@ __NOTE__: We can add a baloon tip description to our link by using double qoutes
 
 ---
 
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+
+<!--CODE BLOCK FOR GITHUB DOCUMENTATION-->
+
+```install npm
+npm install
+
+npm start
+```
+
+
+
 
 
 
