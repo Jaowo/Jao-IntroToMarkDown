@@ -57,8 +57,10 @@ This is an example of a text with an asterisk* WHen we don't want it to be itali
 
 <!--Link Rule-->
 
-**NOTE**: we would want to put the link description inside of square brackets and link to the resource inside of two open and close parenthesis
-[JaoOrtiz Fb page](https://www.facebook.com/Kindhearted.14/)
+**NOTE**: we would want to put the link description inside of square brackets and link to the resource inside of two open and close parenthesis[JaoOrtiz Fb profile](https://www.facebook.com/Kindhearted.14/)
+
+__NOTE__: We can add a baloon tip description to our link by using double qoutes after the link in the resource.
+[JaoOrtiz Facebook page](https://www.facebook.com/Kindhearted.14/ "This is Joshua Ortiz facebook page " )
 
 
 
