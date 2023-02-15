@@ -47,6 +47,12 @@ This is an example of a text with an asterisk* WHen we don't want it to be itali
 
 ---
 
+<!--Blackqoute Rule-->
+
+> we use greater than symbol to display a block of text as a qoute with a background and line on the left side.
+
+> "You don't have to be great to start, but you need to start to be great.* -__Unknown Author__
+
 
 
 
