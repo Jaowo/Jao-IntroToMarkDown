@@ -63,6 +63,65 @@ __NOTE__: We can add a baloon tip description to our link by using double qoutes
 [JaoOrtiz Facebook page](https://www.facebook.com/Kindhearted.14/ "This is Joshua Ortiz facebook page " )
 
 
+---
+
+<!--List item rules-->
+
+<!--UNORDERED LISTS-->
+
+* Item 1 - this is going to be our list item 1
+  *   This is our list item 1 child item 1
+  *   This is our list item 2 child item 2  
+* Item 2 - this is going to be our list item 2
+  *   This is our list item 2 child item 1
+  *   This is our list item 2 child item 2 
+* Item 3 - this is going to be our list item 3
+  *   This is our list item 3 child item 1
+  *   This is our list item 3 child item 2   
+* Item 4 - this is going to be our list item 4
+  *    This is our list item 4 child item 1
+  *    This is our list item 5 child item 2
+* Item 5 - this is going to be our list item 5
+  *    This is our list item 5 child item 1
+  *    This is our list item 5 child item 2
+
+<!--Order List-->
+
+
+1. Item 1 - this is going to be our list item 1
+
+    1.1   This is our list item 1 child item 1
+  
+    1.2   This is our list item 2 child item 2  
+  
+2. Item 2 - this is going to be our list item 2
+
+    2.1  This is our list item 2 child item 1
+    
+    2.2   This is our list item 2 child item 2 
+    
+3. Item 3 - this is going to be our list item 3
+
+    3.1   This is our list item 3 child item 1
+   
+    3.2   This is our list item 3 child item 2   
+    
+4. Item 4 - this is going to be our list item 4
+
+    4.1    This is our list item 4 child item 1
+  
+    4.2     This is our list item 5 child item 2
+  
+5. Item 5 - this is going to be our list item 5
+
+    5.1    This is our list item 5 child item 1
+  
+    5.2   This is our list item 5 child item 2
+
+
+
+
+
 
 
 
