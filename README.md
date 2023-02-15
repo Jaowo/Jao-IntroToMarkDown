@@ -163,6 +163,18 @@ function jsAdd(num1,num2){
   
   ```
   
+  ---
+  
+  <!--Table Rule-->
+  
+  | Name | Nickname | Email |
+  |------|----------|-------|
+  |Joshua| Jao      |jao.ortiz08@gmai.com|
+  |qwe   | qwerty   |qwerty_123@gmail.com|
+  |123   | 12345    |12345_67891011@gmail.com|
+  
+ 
+  
   
 
 
